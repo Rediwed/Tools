@@ -7,3 +7,5 @@ GP Manager is a AppleScript tool that automates the opening and quitting of pers
 
 This tool detects whether GP is running, and then proposes to either launch or quit Palo Alto’s service.
 
+# Binary Addition
+Python script that adds two binary numbers of any length, without using built-in functions for binary addition.
